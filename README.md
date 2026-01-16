@@ -63,29 +63,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdluqman-neurocodes&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdluqman-neurocodes&layout=compact&theme=tokyonight" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdluqman-neurocodes" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdluqman-neurocodes" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdluqman-neurocodes&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdluqman-neurocodes&theme=ambient_gradient&hide_border=false" />
 </p>
 
 ---
